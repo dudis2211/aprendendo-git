@@ -1,0 +1,14 @@
+HIERARQUIA DE PASTAS ENTRA21
+
+eduardo.schmidt
+   dev
+
+---Comandos básicos git e bash
+como navegar entre pastas dentro do gitbash
+ **entrar na pastas
+      cd /c/eduardo.schmidt/dev
+ **voltar um nível
+      cd ..
+
+ver conteudo da pasta
+ * ls
