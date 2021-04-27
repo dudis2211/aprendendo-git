@@ -12,3 +12,6 @@ como navegar entre pastas dentro do gitbash
 
 ver conteudo da pasta
  * ls
+
+-----------------
+passo a passo para enviar um commit para o repositório com comandos
