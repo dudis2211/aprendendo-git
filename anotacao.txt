@@ -15,3 +15,10 @@ ver conteudo da pasta
 
 -----------------
 passo a passo para enviar um commit para o repositório com comandos
+
+-----------
+http://dontpad.com/projeto-entra21-2021
+
+usuario : email pessoal
+senha : data nascimento sem as barras
+-------------
