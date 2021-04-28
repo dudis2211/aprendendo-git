@@ -16,6 +16,12 @@ ver conteudo da pasta
 -----------------
 passo a passo para enviar um commit para o repositório com comandos
 
+git status
+git add
+git status
+git commit -m ''
+git push
+
 -----------
 http://dontpad.com/projeto-entra21-2021
 
