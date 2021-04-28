@@ -1,6 +1,4 @@
-http://dontpad.com/projeto-entra21-2021
-
- 	<!DOCTYPE html>
+	<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8" />
