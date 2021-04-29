@@ -28,3 +28,5 @@ http://dontpad.com/projeto-entra21-2021
 usuario : email pessoal
 senha : data nascimento sem as barras
 ------------
+git checkout -b <branch_name> - criar um novo branch
+git checkout <branch_name> - vai para um branch especifica
