@@ -30,3 +30,12 @@ senha : data nascimento sem as barras
 ------------
 git checkout -b <branch_name> - criar um novo branch
 git checkout <branch_name> - vai para um branch especifica
+
+---------
+passo a passo para fazer o Merge
+
+git checkout main
+git pull origin
+git merge <branch_name> - nesse exemplo vai ser o A100
+vai abrir uma msg que pode ser fechada
+git push origin
